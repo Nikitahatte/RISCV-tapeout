@@ -5,15 +5,7 @@
 
 | Resource   | Allocation     | Remarks                                |
 |------------|----------------|----------------------------------------|
-|  RAM     | 6 GB           | Sufficient for running EDA tools smoothly |
-|  Storage | 50 GB HDD      | Enough space for OS + tools + projects |
-|  CPU     | 4 vCPUs        | Provides parallelism for synthesis & PnR |
-|  OS      | Ubuntu 20.04+  | Recommended version for open-source EDA tools |
-
-
-##  Enable Copy-Paste in VirtualBox (Linux Guest). "Do with care if you really need to paste "
-
-<img width="650" height="558" alt="image" src="https://github.com/user-attachments/assets/56c1ae1a-22e0-4dea-9a0d-f8e711e731bc" />
+|  RAM     | 6 GB           | Sufficient fonts/assets/56c1ae1a-22e0-4dea-9a0d-f8e711e731bc" />
 
 
   
