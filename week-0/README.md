@@ -1,11 +1,14 @@
 ## VLSI System Design (VSD) Program Foundation & Tool Setup 
 
 
-##  Virtual Machine Configuration requirement (linux)
+##  Virtual Machine Configuration requirement (ubuntu 20.04)
 
 | Resource   | Allocation     | Remarks                                |
 |------------|----------------|----------------------------------------|
-|  RAM     | 6 GB           | Sufficient fonts/assets/56c1ae1a-22e0-4dea-9a0d-f8e711e731bc" />
+|  RAM     | 6 GB           | Sufficient for running EDA tools smoothly |
+|  Storage | 50 GB HDD      | Enough space for OS + tools + projects |
+|  CPU     | 4 vCPUs        | Provides parallelism for synthesis & PnR |
+|  OS      | Ubuntu 20.04+  | Recommended version for open-source EDA tools |
 
 
   
