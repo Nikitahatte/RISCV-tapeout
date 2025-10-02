@@ -1,0 +1,69 @@
+# WEEK-1 [RTL Design And Synthesis Workshop Using Sky130](https://github.com/gauravacad/RISCV-Reference_SOC_TapeOut_Program_IITGN-VSD/tree/main/WEEK-1/)
+
+
+Welcome to the **RTL Workshop**, a hands-on learning series focused on Verilog RTL design, simulation, synthesis, and digital circuit optimization. This repository is structured into multiple days, each with its own practical labs, code examples, and explanations.
+
+---
+
+
+## Table of Contents
+
+- [About This Workshop](#about-this-workshop)
+- [Prerequisites](#prerequisites)
+- [Workshop Structure](#workshop-structure)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## About This Workshop
+
+This workshop is intended for students, hobbyists, and engineers who want to learn about:
+
+- Verilog RTL design and simulation
+- Using Icarus Verilog and GTKWave for simulation and waveform analysis
+- Logic synthesis using Yosys and the SKY130 open-source PDK
+- Key digital design concepts: testbenches, timing libraries, D flip-flop coding styles, and optimization techniques
+
+---
+
+## Prerequisites
+
+- Basic understanding of digital logic (gates, flip-flops, multiplexers, etc.)
+- Familiarity with Linux shell commands
+- A Linux environment (or WSL on Windows/macOS)
+- Tools: `git`, `iverilog`, `gtkwave`, `yosys`, and a text editor
+
+---
+
+## Workshop Structure
+
+The workshop is organized by day, each with a dedicated folder and README:
+
+- [Day 1: Introduction to Verilog RTL Design & Synthesis](https://github.com/gauravacad/RISCV-Reference_SOC_TapeOut_Program_IITGN-VSD/blob/main/WEEK-1/Day_1/README.MD)
+- [Day 2: Timing Libraries, Synthesis Approaches, and Efficient Flip-Flop Coding](https://github.com/gauravacad/RISCV-Reference_SOC_TapeOut_Program_IITGN-VSD/tree/main/WEEK-1/Day_2/README.MD)
+- [Day 3: Combinational and Sequential Optimization](https://github.com/gauravacad/RISCV-Reference_SOC_TapeOut_Program_IITGN-VSD/blob/main/WEEK-1/DAY-3/README.MD)
+- [Day 4: Gate-Level Simulation (GLS), Blocking vs. Non-Blocking in Verilog, and Synthesis-Simulation Mismatch ](https://github.com/gauravacad/RISCV-Reference_SOC_TapeOut_Program_IITGN-VSD/blob/main/WEEK-1/DAY-4/README.MD)
+- [Day 5: Optimization in Synthesis ](https://github.com/gauravacad/RISCV-Reference_SOC_TapeOut_Program_IITGN-VSD/blob/main/WEEK-1/DAY-5/README.MD)
+
+Each day’s README includes:
+- Clear explanations of the day’s concepts
+- Step-by-step practical labs with code and screenshots
+- Tips and best practices for RTL design
+
+---
+
+## Acknowledgements 👑
+
+
+*  [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
+*  Open-source tools providers like Yosys and Sky130 PDK.
+
+---
+
+## 6. 🎯 Summary & Key Takeways
+
+- I have learned about simulators, designs, and testbenches.
+- I ran your first Verilog simulation with iverilog and visualized waveforms.
+- Also I have analyzed the 2-to-1 mux code.
+- Finally, I have explored `Yosys`, `iverilog`, `Gtkwave` and also , learned why gate libraries have different flavors.
+
